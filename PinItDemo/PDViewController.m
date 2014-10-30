@@ -6,16 +6,6 @@
 //  Copyright (c) 2014 Pinterest. All rights reserved.
 //
 
-
-/*	Party Cardy!
- Key:
- 31c157111df3aa93cb6ea94a396d16c5
- 
- Secret:
- cbbee7da6a2dacd1
- 
- Edit app details - Edit auth flow for this app - View all Apps by You
- */
 #import "PDViewController.h"
 
 #define kMargin             20.0
